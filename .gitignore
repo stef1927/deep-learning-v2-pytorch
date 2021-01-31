@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 project-dog-classification/images
 *.zip
+*.pt
+.idea
